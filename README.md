@@ -1,4 +1,4 @@
-# Data Analyst Portfolio Project – Sales Management
+# Data Analyst Project – Sales Management
 
 ## Business Request & User Stories
 
